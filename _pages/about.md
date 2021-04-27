@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Personal Website
+About Me
 ======
 Working as a Senior Research Fellow at Rajagiri School of Engineering & Technology along with Jyothi Engineering College
 ,Department of Science & Technology sponsored project, code no. DST/ICPS/CPS-Individual/2018/1091 titled “Intelligent CPS Data Analytics Platform for a Metro Rail Transport System” In collaboration with Kochi Metro Rail Limited (KMRL) under the Principal Investigator: Fr. Dr. Jaison Paul Mulerikkal CMI, Vice-Principal & Professor,  Rajagiri School of Engineering & Technology, Kochi. Former Software Developer In Artificial Intelligence at Healship Technologies.
