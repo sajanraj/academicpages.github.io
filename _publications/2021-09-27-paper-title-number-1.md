@@ -2,7 +2,7 @@
 title: "Performance Improvement For Metro Passenger Flow Forecast Using Spatio-Temporal Deep Neural Network"
 collection: publications
 permalink: /publication/2021-09-27-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'ST-LSTM (Spatio-Temporal Long Short-Term Memory) architecture'
 date: 2021-09-27
 venue: ' Neural Computing & Applications (2021)'
 paperurl: 'https://link.springer.com/article/10.1007%2Fs00521-021-06522-5'
